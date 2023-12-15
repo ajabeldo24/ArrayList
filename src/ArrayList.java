@@ -1,3 +1,8 @@
+/*
+AJ
+12/4/23
+JPSE
+ */
 public class ArrayList <T> {
 
     private Node<T> rootNode = new Node<>();
