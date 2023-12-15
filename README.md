@@ -1,1 +1,1 @@
-# ArrayList
+This project utilizes the Node class to create an Arraylist. We use the various methods in the node class we created to create a whole new ArrayList class that should emulate an actual ArrayList very closely.
