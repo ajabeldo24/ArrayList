@@ -1,3 +1,8 @@
+/*
+AJ
+12/4/23
+JPSE
+ */
 public class ArrayListTest {
     public static void main(String[] args) {
         ArrayList<Integer> bla = new ArrayList<>();
